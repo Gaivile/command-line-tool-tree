@@ -9,3 +9,5 @@ To run locally, you need Node, npm and [Lumo](https://www.npmjs.com/package/lumo
 Open a terminal and type `npm install` to get all the dependencies. 
 
 Type `lumo` to get an instant cljs REPL. <i>Neat!</i>
+
+Script to run the tool from a local directory: `lumo -c src -m birch.core <DIRECTORY>`
