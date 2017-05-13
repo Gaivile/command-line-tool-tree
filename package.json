@@ -1,0 +1,16 @@
+{
+  "name": "htt-birch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "birch": "bin/birch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^1.2.0",
+    "lumo-cljs": "1.4.0"
+  }
+}
